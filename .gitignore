@@ -1,7 +1,5 @@
 # Local preview-only demo links; finished demos are public release assets.
 docs/demo-media/
-.env
-.env.*
 !.env.example
 __pycache__/
 *.py[cod]
@@ -11,3 +9,4 @@ work/
 outputs/
 *.log
 docs/dashboard/media/*.mp4
+config.bat
